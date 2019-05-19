@@ -1,7 +1,12 @@
 #Diferentes tipos de error, queda pendiente para que el usuario elija unar los quantiles o no
-error<-function(X,MA){
+error<-function(X,MA,quantile=FALSE){
+  if(quantile){
   qqX<-quantile(X,seq(0,100,by=1)/100)
   qqMA<-quantile(MA,seq(0,100,by=1)/100)
+    }else{
+    qqX<-X
+    qqMA<-MA
+  }
   #0 es mayor igualdad
   U<-sqrt(sum((qqX-qqMA)^2)/length(qqX))/(sqrt(sum(qqX^2)/length(qqX))+sqrt(sum(qqMA^2)/length(qqMA)))
   #0 es mayor igualdad en medias
