@@ -72,3 +72,61 @@ Rul[[3]][[2]]
 Rul[[4]][[2]]
 
 plot(Rul[[4]][[1]])
+########################################
+##############Escenarios################
+########################################
+#Vamos a 300 apuestas con posiciones de la 1 a la 22
+set.seed(12345)
+Rul<-Ruleta(Juegos_jugados = 300,apuesta_inicial = .05,posiciones = c(22))
+
+#Ganancia
+Rul[[1]][[2]]
+#Máx. inversion
+Rul[[3]][[2]]
+#Max. inversión acumulada
+Rul[[4]][[2]]
+
+plot(Rul[[4]][[1]])
+
+##################################
+#Vamos a cambiar la forma de juego
+Rul<-Ruleta(Juegos_jugados = 100,apuesta_inicial = .05,
+            posiciones = c(2),fn_fracaso = function(x){if(x>1){x+2}else{x*2}})
+
+#Ganancia
+Rul[[1]][[2]]
+#Máx. inversion
+Rul[[3]][[2]]
+#Max. inversión acumulada
+Rul[[4]][[2]]
+
+plot(Rul[[4]][[1]])
+
+##################################
+#60 juegos apostando la mitad pero multiplicando por 1.5 cada vez que perdemos
+#Encontrando una fn óptima
+Rul<-Ruleta(Juegos_jugados = 60,apuesta_inicial = .05,
+            posiciones = c(5),fn_fracaso = function(x){x*1.5})
+#Ganancia
+Rul[[1]][[2]][7]
+#Máx. inversion
+Rul[[3]][[2]][6]
+#Max. inversión acumulada
+Rul[[4]][[2]]
+
+plot(Rul[[4]][[1]])
+
+
+##################################
+#Nueva forma:
+Rul<-Ruleta(Juegos_jugados = 45,apuesta_inicial = .1,
+            posiciones = c(20),fn_fracaso = function(x){x*1.5})
+#Ganancia
+Rul[[1]][[2]][7]
+#Máx. inversion
+Rul[[3]][[2]][6]
+#Max. inversión acumulada
+Rul[[4]][[2]]
+
+plot(Rul[[4]][[1]])
+
