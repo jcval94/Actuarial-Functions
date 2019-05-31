@@ -113,3 +113,4 @@ G_Casino<-as.numeric(map(Res,~-sum(.x)))
 
 summary(G_Casino)
 sum(G_Casino)
+hist(G_Casino)
