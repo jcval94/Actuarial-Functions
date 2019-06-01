@@ -1,6 +1,6 @@
 ####Competir variables (discreta vs cont?nua)
 
-Versus<-function(df=df1,var1="Res_ult1",var2="Capacidad_de_Pago",
+Versus<-function(df,var1="",var2="",
                  minmax=NULL,plot=F,disc=T){
 
   #Si dsc == T entonces v<-table()... en lugar de numeros
@@ -22,9 +22,12 @@ Versus<-function(df=df1,var1="Res_ult1",var2="Capacidad_de_Pago",
     v<-as.data.frame(table(df[,var2],df[,var1]))
   }
 
-  ifelse(length(unique(v$Var1))<=length(unique(v$Var2)),
-         c(xt<-unique(v$Var1),var<-"Var1",vir<-"Var2"),
-         c(xt<-unique(v$Var2),var<-"Var2",vir<-"Var1"))
+  if(length(unique(v$Var1))<=length(unique(v$Var2))){
+    xt<-unique(v$Var1);var<-"Var1",vir<-"Var2"
+  }else{
+  xt<-unique(v$Var2);var<-"Var2",vir<-"Var1")
+  }
+  
   list<-list()
   #var = la variable con mens valores
   for (i in 1:length(xt)) {
@@ -54,3 +57,7 @@ Versus<-function(df=df1,var1="Res_ult1",var2="Capacidad_de_Pago",
   }
   return(porcent)
 }
+
+data(iris)
+
+Versus(iris,"Species","Sepal.Length")
