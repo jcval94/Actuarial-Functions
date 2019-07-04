@@ -20,3 +20,11 @@ error<-function(X,MA,quantile=FALSE){
 
   return(c(U,Um,Us,Cor))
 }
+
+#exampe
+
+error(rnorm(1000),rnorm(1000,2,2))
+
+
+
+
