@@ -1,0 +1,801 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"abind","abind","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-5",NA,"R (>= 1.5.0)","methods, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"acepack","acepack","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.1",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"actuar","actuar","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3-1",NA,"R (>= 3.3.0)","stats, graphics, expint","expint","MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"AdequacyModel","AdequacyModel","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0.0",NA,NA,"methods, stats, graphics",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"ADGofTest","ADGofTest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3",NA,NA,NA,NA,NA,NA,"GPL",NA,NA,NA,NA,NA,"3.5.2"
+"antiword","antiword","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3",NA,NA,"sys (>= 2.0)",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"askpass","askpass","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"assertthat","assertthat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,NA,"tools",NA,"testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"available","available","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.4",NA,"R (>= 3.3.0)","cli, clisymbols, crayon, tidytext, desc, glue, jsonlite,
+memoise, SnowballC, stringdist, tibble, udapi, yesno",NA,"usethis, BiocInstaller, BiocManager, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"backports","backports","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.4",NA,"R (>= 3.0.0)","utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"base64enc","base64enc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"BH","BH","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.69.0-1",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","3.5.2"
+"bibtex","bibtex","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.2",NA,"R (>= 3.0.2)","stringr, utils",NA,"testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"bit","bit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-14",NA,"R (>= 2.9.2)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"bit64","bit64","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-7",NA,"R (>= 3.0.1), bit (>= 1.1-12), utils, methods, stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"bitops","bitops","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-6",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"blob","blob","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,NA,"methods, prettyunits, rlang, vctrs (>= 0.2.0)",NA,"covr, crayon, pillar (>= 1.2.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"boot","boot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-23","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.5.3"
+"BradleyTerry2","BradleyTerry2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-0",NA,"R (>= 2.10)","brglm, gtools, lme4 (>= 1.0), qvcalc, stats",NA,"prefmod","gnm","GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"brew","brew","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-6",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.2"
+"brglm","brglm","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.2",NA,"R (>= 2.6.0), profileModel",NA,NA,"MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"broom","broom","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.2",NA,"R (>= 3.1)","backports, dplyr, generics (>= 0.0.2), methods, nlme, purrr,
+reshape2, stringr, tibble, tidyr",NA,"AER, akima, AUC, bbmle, betareg, biglm, binGroup, boot, brms,
+btergm, car, caret, coda, covr, e1071, emmeans, ergm, gam (>=
+1.15), gamlss, gamlss.data, gamlss.dist, geepack, ggplot2,
+glmnet, gmm, Hmisc, irlba, joineRML, Kendall, knitr, ks,
+Lahman, lavaan, lfe, lme4, lmodel2, lmtest, lsmeans, maps,
+maptools, MASS, Matrix, mclust, mgcv, muhaz, multcomp, network,
+nnet, orcutt (>= 2.2), ordinal, plm, plyr, poLCA, psych,
+quantreg, rgeos, rmarkdown, robust, rsample, rstan, rstanarm,
+sp, speedglm, statnet.common, survey, survival, testthat,
+tseries, xergm, zoo",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"C50","C50","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.2",NA,"R (>= 2.10.0)","partykit, Cubist (>= 0.2.1)",NA,"recipes, knitr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"Cairo","Cairo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-10",NA,"R (>= 2.4.0)","grDevices, graphics",NA,"png","FastRWeb","GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"callr","callr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.3.1",NA,NA,"processx (>= 3.4.0), R6, utils",NA,"cliapp, covr, crayon, knitr, pingr, ps, rmarkdown, rprojroot,
+spelling, testthat, tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"caret","caret","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","6.0-84",NA,"R (>= 3.2.0), lattice (>= 0.20), ggplot2","foreach, methods, plyr, ModelMetrics (>= 1.1.0), nlme,
+reshape2, stats, stats4, utils, grDevices, recipes (>= 0.1.4),
+withr (>= 2.0.0)",NA,"BradleyTerry2, e1071, earth (>= 2.2-3), fastICA, gam (>=
+1.15), ipred, kernlab, knitr, klaR, MASS, ellipse, mda, mgcv,
+mlbench, MLmetrics, nnet, party (>= 0.9-99992), pls, pROC,
+proxy, randomForest, RANN, spls, subselect, pamr, superpc,
+Cubist, testthat (>= 0.9.1), rpart, dplyr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"cartogram","cartogram","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.1",NA,NA,"rgeos, sp, methods, sf, packcircles",NA,"rgdal, maptools",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"caTools","caTools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.17.1.2",NA,"R (>= 2.2.0)","bitops",NA,"MASS, rpart",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"cellranger","cellranger","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,"R (>= 3.0.0)","rematch, tibble",NA,"covr, testthat (>= 1.0.0), knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"checkmate","checkmate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.9.4",NA,"R (>= 3.0.0)","backports (>= 1.1.0), utils",NA,"R6, bit, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+0.11.0), tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"chron","chron","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3-53",NA,"R (>= 2.12.0)","graphics, stats",NA,"scales, ggplot2","zoo","GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"classInt","classInt","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3-3",NA,"R (>= 2.2)","grDevices, stats, graphics, e1071, class, KernSmooth",NA,"spData (>= 0.2.6.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"cli","cli","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,"R (>= 2.10)","assertthat, crayon (>= 1.3.4), methods, utils",NA,"covr, fansi, mockery, testthat, webshot, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"clipr","clipr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.0",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"clisymbols","clisymbols","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"cluster","cluster","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.0","recommended","R (>= 3.3.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"coin","coin","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-0",NA,"R (>= 3.4.0), survival","methods, parallel, stats, stats4, utils, libcoin (>= 1.0-0),
+matrixStats (>= 0.54.0), modeltools (>= 0.2-9), mvtnorm (>=
+1.0-5), multcomp","libcoin (>= 1.0-0)","xtable, e1071, vcd, TH.data (>= 1.0-7)",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"colorspace","colorspace","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-1",NA,"R (>= 3.0.0), methods","graphics, grDevices, stats",NA,"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"colourpicker","colourpicker","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,"R (>= 3.1.0)","ggplot2, htmltools, htmlwidgets (>= 0.7), jsonlite, miniUI (>=
+0.1.1), shiny (>= 0.11.1), shinyjs, utils",NA,"knitr (>= 1.7), rmarkdown, rstudioapi (>= 0.5)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"combinat","combinat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0-8",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.2"
+"commonmark","commonmark","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7",NA,NA,NA,NA,"curl, testthat, xml2",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"config","config","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3",NA,NA,"yaml (>= 2.1.13)",NA,"testthat, knitr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"copula","copula","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.999-19.1",NA,"R (>= 3.1.0)","stats, graphics, methods, stats4, Matrix, lattice, colorspace,
+gsl, ADGofTest, stabledist (>= 0.6-4), mvtnorm, pcaPP, pspline,
+numDeriv",NA,"MASS, KernSmooth, sfsmisc, scatterplot3d, Rmpfr, bbmle,
+knitr, abind, crop, gridExtra, lcopula, mev, mvnormtest,
+parallel, partitions, polynom, qrng, randtoolbox, rugarch,
+Runuran, tseries, VGAM, VineCopula, zoo","nor1mix, copulaData","GPL (>= 3) | file LICENCE",NA,NA,NA,NA,"yes","3.5.3"
+"copypaste","copypaste","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.1.0)","",NA,NA,NA,"GPL-3",NA,NA,NA,NA,NA,"3.5.3"
+"corpcor","corpcor","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.6.9",NA,"R (>= 3.0.2)","stats",NA,"",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.2"
+"corrplot","corrplot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.84",NA,NA,NA,NA,"knitr, RColorBrewer, testthat",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"covr","covr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.2.1",NA,"R (>= 3.1.0), methods","digest, stats, utils, jsonlite, rex, httr, crayon, withr (>=
+1.0.2)",NA,"R6, knitr, rmarkdown, htmltools, DT (>= 0.2), testthat,
+rstudioapi (>= 0.2), xml2 (>= 1.0.0), parallel, memoise,
+mockery",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"cowplot","cowplot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.5.0)","ggplot2 (> 2.2.1), grid, gtable, grDevices, methods, rlang,
+scales, utils",NA,"Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr,
+lattice, magick, maps, PASWR, rmarkdown, testthat (>= 1.0.0),
+tidyr, vdiffr (>= 0.3.0), VennDiagram",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"crayon","crayon","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.4",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"crosstalk","crosstalk","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,"htmltools (>= 0.3.5), jsonlite, lazyeval, R6, shiny (>= 0.11),
+ggplot2",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"Cubist","Cubist","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.2",NA,"lattice","reshape2",NA,"mlbench, caret, knitr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"curl","curl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.0",NA,"R (>= 3.0.0)",NA,NA,"askpass, spelling, testthat (>= 1.0.0), knitr, jsonlite,
+rmarkdown, magrittr, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"data.table","data.table","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.12.2",NA,"R (>= 3.1.0)","methods",NA,"bit64, curl, R.utils, knitr, xts, nanotime, zoo",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"DBI","DBI","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.0.0), methods",NA,NA,"blob, covr, hms, knitr, magrittr, rprojroot, rmarkdown,
+RSQLite (>= 1.1-2), testthat, xml2",NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"dbplyr","dbplyr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.2",NA,"R (>= 3.1)","assertthat (>= 0.2.0), DBI (>= 1.0.0), dplyr (>= 0.8.0), glue
+(>= 1.2.0), methods, purrr (>= 0.2.5), R6 (>= 2.2.2), rlang (>=
+0.2.0), tibble (>= 1.4.2), tidyselect (>= 0.2.4), utils",NA,"bit64, covr, knitr, Lahman, nycflights13, RMariaDB (>=
+1.0.2), rmarkdown, RMySQL (>= 0.10.11), RPostgreSQL (>= 0.4.1),
+RSQLite (>= 2.1.0), testthat (>= 2.0.0), withr (>= 2.1.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"deldir","deldir","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-22",NA,"R (>= 0.99)","graphics, grDevices",NA,"polyclip",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"DEoptimR","DEoptimR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-8",NA,NA,"stats",NA,NA,"robustbase","GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"desc","desc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,"R (>= 3.1.0)","assertthat, utils, R6, crayon, rprojroot",NA,"covr, testthat, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"devtools","devtools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.0",NA,"R (>= 3.0.2), usethis (>= 1.5.0)","callr, cli, digest, git2r (>= 0.23.0), httr (>= 0.4),
+jsonlite, memoise (>= 1.0.0), pkgbuild (>= 1.0.3), pkgload (>=
+1.0.2), rcmdcheck (>= 1.3.3), remotes (>= 2.1.0), roxygen2 (>=
+6.1.1), rstudioapi (>= 0.7), sessioninfo (>= 1.1.1), stats,
+testthat (>= 2.1.1), tools, utils, withr",NA,"BiocManager, bitops, covr (>= 3.2.0), crayon, curl (>= 0.9),
+evaluate, foghorn (>= 1.1.0), gmailr (> 0.7.0), knitr, lintr
+(>= 0.2.1), mockery, pingr, MASS, pkgdown, Rcpp (>= 0.10.0),
+rhub (>= 1.0.2), rmarkdown, rversions, spelling (>= 1.1),
+whisker",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"dichromat","dichromat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0-0",NA,"R (>= 2.10), stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.2"
+"diffobj","diffobj","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.3",NA,"R (>= 3.1.0)","crayon (>= 1.3.2), tools, methods, utils, stats",NA,"knitr, rmarkdown, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"digest","digest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.20",NA,"R (>= 3.1.0)",NA,NA,"tinytest, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"distr","distr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.8.0",NA,"R(>= 2.14.0), methods, graphics, startupmsg, sfsmisc","stats, grDevices, utils, MASS",NA,"distrEx, svUnit (>= 0.7-11), knitr",NA,"LGPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"DISTRIB","DISTRIB","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,NA,NA,NA,NA,NA,"LGPL (>= 3)",NA,NA,NA,NA,"no","3.5.2"
+"DistributionUtils","DistributionUtils","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6-0",NA,"R (>= 3.0.1)",NA,NA,"GeneralizedHyperbolic, VarianceGamma, SkewHyperbolic, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"doParallel","doParallel","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.14",NA,"R (>= 2.14.0), foreach(>= 1.2.0), iterators(>= 1.0.0),
+parallel, utils",NA,NA,"caret, mlbench, rpart, RUnit","compiler","GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"dplyr","dplyr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.3",NA,"R (>= 3.2.0)","assertthat (>= 0.2.0), glue (>= 1.3.0), magrittr (>= 1.5),
+methods, pkgconfig, R6, Rcpp (>= 1.0.1), rlang (>= 0.4.0),
+tibble (>= 2.0.0), tidyselect (>= 0.2.5), utils","BH, plogr (>= 0.2.0), Rcpp (>= 1.0.1)","bit64, callr, covr, crayon (>= 1.3.4), DBI, dbplyr, dtplyr,
+ggplot2, hms, knitr, Lahman, lubridate, MASS, mgcv,
+microbenchmark, nycflights13, rmarkdown, RMySQL, RPostgreSQL,
+RSQLite, testthat, withr, broom, purrr, readr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"DT","DT","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7",NA,NA,"htmltools (>= 0.3.6), htmlwidgets (>= 1.3), magrittr,
+crosstalk, promises",NA,"jsonlite (>= 0.9.16), knitr (>= 1.8), rmarkdown, shiny (>=
+1.1.0)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"dtplyr","dtplyr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.3",NA,NA,"dplyr (>= 0.5.0), data.table (>= 1.9.6), lazyeval, rlang",NA,"Lahman, nycflights13, testthat, covr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"e1071","e1071","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7-2",NA,NA,"graphics, grDevices, class, stats, methods, utils",NA,"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"earth","earth","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.1.1",NA,"R (>= 3.4.0), Formula (>= 1.2-3), plotmo (>= 3.5.4),
+TeachingDemos (>= 2.10)",NA,NA,"gam (>= 1.16), mgcv (>= 1.8-26), mda (>= 0.4-10), MASS (>=
+7.3-51)",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"ellipse","ellipse","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.1",NA,"R (>= 2.0.0),graphics,stats",NA,NA,"MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"ellipsis","ellipsis","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.0.1",NA,"R (>= 3.1)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"evaluate","evaluate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.14",NA,"R (>= 3.0.2)","methods",NA,"testthat, lattice, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"expint","expint","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-5",NA,"R (>= 3.3.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"expm","expm","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.999-4",NA,"Matrix","methods",NA,"RColorBrewer, sfsmisc, Rmpfr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"expsmooth","expsmooth","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3",NA,"R (>= 2.0.0), forecast",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"extraDistr","extraDistr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8.11",NA,"R (>= 3.1.0)","Rcpp","Rcpp","testthat, LaplacesDemon, VGAM, evd, hoa, skellam, triangle,
+actuar",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"extrafont","extrafont","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.17",NA,"R (>= 2.15)","extrafontdb, grDevices, utils, Rttf2pt1",NA,"fontcm",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"extrafontdb","extrafontdb","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,"R (>= 2.14)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.2"
+"fansi","fansi","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.0",NA,"R (>= 3.1.0)",NA,NA,"unitizer, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"fastICA","fastICA","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2-2",NA,"R (>= 3.0.0)",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"fastmatch","fastmatch","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-0",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"fBasics","fBasics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3042.89",NA,"R (>= 2.15.1), timeDate, timeSeries","stats, grDevices, graphics, methods, utils, MASS, spatial,
+gss, stabledist",NA,"akima, RUnit, tcltk",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"ff","ff","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2-14",NA,"R (>= 2.10.1), bit (>= 1.1-13), utils",NA,NA,"biglm",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"ffbase","ffbase","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.12.7",NA,"R (>= 2.12.0),ff(>= 2.2-11)","fastmatch, bit",NA,"testthat, parallel, LaF, biglm",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"fitdistrplus","fitdistrplus","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-14",NA,"R (>= 3.2.0), MASS, grDevices, survival, methods, npsurv","stats",NA,"actuar, rgenoud, mc2d, gamlss.dist, knitr, knitcitations,
+ggplot2, GeneralizedHyperbolic",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"FitUlt","FitUlt","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.2.0)","ADGofTest, fitdistrplus, assertthat, MASS, purrr, ggplot2, cowplot, mclust, methods, stats",NA,NA,NA,"GPL-3",NA,NA,NA,NA,NA,"3.5.3"
+"FitUltD","FitUltD","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0.0",NA,"R (>= 3.2.0), mclust","ADGofTest, fitdistrplus, assertthat, MASS, purrr, ggplot2,
+cowplot, methods, stats",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"flexdashboard","flexdashboard","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.1.1",NA,"R (>= 3.0.2)","tools, jsonlite, htmltools, knitr (>= 1.13), htmlwidgets (>=
+0.6), rmarkdown (>= 1.0), shiny (>= 0.13)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"fontBitstreamVera","fontBitstreamVera","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.1",NA,"R (>= 3.0.0)",NA,NA,NA,NA,"file LICENCE","yes",NA,NA,NA,"no","3.5.2"
+"fontLiberation","fontLiberation","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.0)",NA,NA,NA,NA,"file LICENSE",NA,NA,NA,NA,"no","3.5.2"
+"fontquiver","fontquiver","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,"R (>= 3.0.0)","fontBitstreamVera (>= 0.1.0), fontLiberation (>= 0.1.0)",NA,"testthat, htmltools",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"forcats","forcats","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.0",NA,"R (>= 3.1)","ellipsis, magrittr, rlang, tibble",NA,"covr, ggplot2, testthat, readr, knitr, rmarkdown, dplyr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"foreach","foreach","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.4",NA,"R (>= 2.5.0)","codetools, utils, iterators",NA,"randomForest","compiler, doMC, RUnit, doParallel","Apache License (== 2.0)",NA,NA,NA,NA,"no","3.5.3"
+"forecast","forecast","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","8.7",NA,"R (>= 3.0.2),","colorspace, fracdiff, ggplot2 (>= 2.2.1), graphics, lmtest,
+magrittr, nnet, parallel, Rcpp (>= 0.11.0), stats, timeDate,
+tseries, urca, zoo","Rcpp (>= 0.11.0), RcppArmadillo (>= 0.2.35)","expsmooth, uroot, knitr, rmarkdown, rticles, testthat,
+methods",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"foreign","foreign","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8-71","recommended","R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"formatR","formatR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7",NA,"R (>= 3.0.2)",NA,NA,"codetools, shiny, testit, rmarkdown, knitr",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"Formula","Formula","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2-3",NA,"R (>= 2.0.0), stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.2"
+"fracdiff","fracdiff","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-2",NA,NA,NA,NA,"longmemo, urca",NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"3.5.3"
+"freetypeharfbuzz","freetypeharfbuzz","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.5",NA,"R (>= 3.2)","fontquiver",NA,"covr, testthat",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"fs","fs","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.1",NA,"R (>= 3.1)","methods, Rcpp","Rcpp","testthat, covr, pillar (>= 1.0.0), crayon, rmarkdown, knitr,
+withr, spelling",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"fTrading","fTrading","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3042.79",NA,"R (>= 2.15.1), timeDate, timeSeries, fBasics","graphics, stats",NA,"methods, RUnit, tcltk",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"fun","fun","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2",NA,NA,NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.5.2"
+"gam","gam","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.16.1",NA,"stats, splines, foreach",NA,NA,"akima",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"gamlss.dist","gamlss.dist","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.1-4",NA,"R (>= 2.15.0), MASS, graphics, stats, methods, grDevices",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"gdalUtils","gdalUtils","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0.1.14",NA,"R (>= 2.14.0)","sp, foreach, R.utils, raster, rgdal",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"gdata","gdata","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.18.0",NA,"R (>= 2.3.0)","gtools, stats, methods, utils",NA,"RUnit",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"gdtools","gdtools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.9",NA,NA,"Rcpp (>= 0.12.12), withr","Rcpp","htmltools, testthat, fontquiver (>= 0.2.0), curl",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"GeneralizedHyperbolic","GeneralizedHyperbolic","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8-4",NA,"R (>= 3.0.1)","DistributionUtils, MASS",NA,"VarianceGamma, actuar, SkewHyperbolic, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"generics","generics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.2",NA,"R (>= 3.1)","methods",NA,"covr, pkgload, testthat, tibble",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"geojson","geojson","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.2",NA,NA,"methods, sp, jsonlite (>= 1.6), protolite (>= 1.8), jqr (>=
+1.1.0), magrittr, lazyeval",NA,"geojsonlint (>= 0.2.0), tibble, testthat, knitr, rmarkdown,
+sf, stringi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"geojsonio","geojsonio","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.0",NA,"R (>= 2.10)","methods, sp, sf (>= 0.6), rgdal (>= 1.1-1), rgeos, httr (>=
+1.1.0), maptools, jsonlite (>= 0.9.21), magrittr, readr (>=
+0.2.2), V8, geojson (>= 0.2.0), jqr",NA,"gistr, testthat, knitr, leaflet","RColorBrewer","MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"geojsonlint","geojsonlint","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,"R (>= 2.10)","crul (>= 0.7.0), jsonlite (>= 0.9.19), jsonvalidate (>=
+1.0.0), V8",NA,"testthat, knitr, rmarkdown (>= 0.9.6)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"geometry","geometry","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.2",NA,"R (>= 3.0.0)","magic, Rcpp, lpSolve, linprog","Rcpp, RcppProgress","spelling, testthat, rgl, R.matlab, tripack",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"geozoo","geozoo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.1",NA,"R (>= 1.8.0)","bitops, stats",NA,"tourr, roxygen2 (>= 5.0.0), testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggcorrplot","ggcorrplot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.3",NA,"ggplot2","reshape2, stats",NA,"knitr, spelling",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggmap","ggmap","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0.0",NA,"R (>= 3.1.0), ggplot2 (>= 2.2.0)","RgoogleMaps, png, plyr, rjson, jpeg, digest, scales, dplyr,
+bitops, grid, glue, httr, stringr, purrr, magrittr, tibble,
+tidyr",NA,"MASS, hexbin, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggplot2","ggplot2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.2.1",NA,"R (>= 3.2)","digest, grDevices, grid, gtable (>= 0.1.1), lazyeval, MASS,
+mgcv, reshape2, rlang (>= 0.3.0), scales (>= 0.5.0), stats,
+tibble, viridisLite, withr (>= 2.0.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, lattice,
+mapproj, maps, maptools, multcomp, munsell, nlme, profvis,
+quantreg, rgeos, rmarkdown, rpart, sf (>= 0.7-3), svglite (>=
+1.2.0.9001), testthat (>= 0.11.0), vdiffr (>= 0.3.0)","sp","GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"ggplot2movies","ggplot2movies","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.1",NA,"R (>= 2.10.0)",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.2"
+"ggpubr","ggpubr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,"R (>= 3.1.0), ggplot2, magrittr","ggrepel, grid, ggsci, stats, utils, tidyr, purrr, dplyr (>=
+0.7.1), cowplot, ggsignif, scales, gridExtra, glue, polynom",NA,"grDevices, knitr, RColorBrewer, gtable",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggrepel","ggrepel","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.1",NA,"R (>= 3.0.0), ggplot2 (>= 2.2.0)","grid, Rcpp, scales (>= 0.3.0)","Rcpp","knitr, rmarkdown, testthat, gridExtra, devtools, prettydoc",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"ggsci","ggsci","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.9",NA,"R (>= 3.0.2)","grDevices, scales, ggplot2 (>= 2.0.0)",NA,"knitr, rmarkdown, gridExtra, reshape2",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"ggseas","ggseas","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.4",NA,"R (>= 3.1.2), ggplot2 (>= 2.0.0)","seasonal, rlang, stats, zoo",NA,"testthat, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"ggsignif","ggsignif","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.0",NA,NA,"ggplot2 (>= 2.0.0)",NA,"testthat, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"gh","gh","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.1",NA,NA,"ini, jsonlite, httr",NA,"covr, pingr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"gistr","gistr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.2",NA,NA,"jsonlite (>= 1.4), httr (>= 1.2.0), magrittr, assertthat,
+knitr, rmarkdown, dplyr",NA,"git2r, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"git2r","git2r","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.26.1",NA,"R (>= 3.1)","graphics, utils",NA,"getPass",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"glue","glue","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.1",NA,"R (>= 3.1)","methods",NA,"testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2, dplyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"goftest","goftest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-1",NA,"R (>= 3.3)","stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"gower","gower","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,NA,NA,NA,"tinytest (>= 0.9.3),",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"gplots","gplots","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0.1.1",NA,"R (>= 3.0)","gtools, gdata, stats, caTools, KernSmooth",NA,"grid, MASS",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"gridExtra","gridExtra","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3",NA,NA,"gtable, grid, grDevices, graphics, utils",NA,"ggplot2, egg, lattice, knitr, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"gridGraphics","gridGraphics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-1",NA,"grid, graphics","grDevices",NA,"magick (>= 1.3), pdftools (>= 1.6)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"gsl","gsl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1-6",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"gss","gss","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1-10",NA,"R (>= 2.14.0), stats",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"gsubfn","gsubfn","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7",NA,"proto",NA,NA,"boot, chron, grid, lattice, quantreg, svUnit, tcltk, zoo",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"gtable","gtable","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,"R (>= 3.0)","grid",NA,"covr, testthat, knitr, rmarkdown, ggplot2, profvis",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"gtools","gtools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.8.1",NA,"methods, stats, utils",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"haven","haven","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.1",NA,"R (>= 3.2)","forcats (>= 0.2.0), hms, Rcpp (>= 0.11.4), readr (>= 0.1.0),
+tibble","Rcpp","covr, fs, knitr, rmarkdown, testthat, pillar (>= 1.1.1), cli,
+crayon",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"hexbin","hexbin","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.27.3",NA,"R (>= 2.0.1), methods","lattice, grid, graphics, grDevices, stats, utils",NA,"marray, affy, Biobase, limma",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"highr","highr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8",NA,"R (>= 3.2.3)",NA,NA,"knitr, testit",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"Hmisc","Hmisc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.2-0",NA,"lattice, survival (>= 2.40-1), Formula, ggplot2 (>= 2.2)","methods, latticeExtra, cluster, rpart, nnet, acepack, foreign,
+gtable, grid, gridExtra, data.table, htmlTable (>= 1.11.0),
+viridis, htmltools, base64enc",NA,"chron, rms, mice, tables, knitr, ff, ffbase, plotly (>=
+4.5.6), rlang",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"hms","hms","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.0",NA,NA,"methods, pkgconfig, rlang, vctrs (>= 0.2.0)",NA,"crayon, lubridate, pillar (>= 1.1.0), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"htmltab","htmltab","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.1",NA,"R (>= 3.0.0)","XML (>= 3.98.1.3), httr (>= 1.0.0)",NA,"testthat, knitr, tidyr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"htmlTable","htmlTable","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.13.1",NA,NA,"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",NA,"testthat, XML, xtable, ztable, Hmisc, reshape, rmarkdown,
+pander, chron, lubridate, tibble, tidyr (>= 0.7.2), dplyr (>=
+0.7.4)",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.3"
+"htmltools","htmltools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.6",NA,"R (>= 2.14.1)","utils, digest, Rcpp","Rcpp","markdown, testthat","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"htmlwidgets","htmlwidgets","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3",NA,NA,"grDevices, htmltools (>= 0.3), jsonlite (>= 0.9.16), yaml",NA,"knitr (>= 1.8)","shiny (>= 1.1)","MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"httpcode","httpcode","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.0",NA,NA,NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.2"
+"httpuv","httpuv","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5.1",NA,"R (>= 2.15.1)","Rcpp (>= 0.11.0), utils, R6, promises, later (>= 0.8.0)","Rcpp, BH, later","testthat, callr, curl",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"httr","httr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.1",NA,"R (>= 3.2)","curl (>= 3.0.0), jsonlite, mime, openssl (>= 0.8), R6",NA,"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"hunspell","hunspell","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0",NA,"R (>= 3.0.2)","Rcpp, digest","Rcpp (>= 0.12.12)","spelling, testthat, pdftools, janeaustenr, wordcloud2, knitr,
+stopwords, rmarkdown",NA,"GPL-2 | LGPL-2.1 | MPL-1.1",NA,NA,NA,NA,"yes","3.5.3"
+"igraph","igraph","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.4.1",NA,"methods","graphics, grDevices, magrittr, Matrix, pkgconfig (>= 2.0.0),
+stats, utils",NA,"ape, digest, graph, igraphdata, rgl, scales, stats4, tcltk,
+testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"ini","ini","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"inline","inline","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.15",NA,"R (>= 2.4.0)","methods",NA,"Rcpp (>= 0.11.0)",NA,"LGPL",NA,NA,NA,NA,"no","3.5.3"
+"installr","installr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.21.3",NA,"R (>= 2.14.0), stringr, utils",NA,NA,"curl, XML, htmltab, devtools, rjson, data.table, plyr,
+ggplot2, sp, tools, pkgbuild",NA,"GPL-2",NA,NA,"windows",NA,"no","3.5.3"
+"inum","inum","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-1",NA,"R (>= 3.3.0)","stats, libcoin (>= 1.0-0)",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ipred","ipred","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-9",NA,"R (>= 2.10)","rpart (>= 3.1-8), MASS, survival, nnet, class, prodlim",NA,"mvtnorm, mlbench, TH.data",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"ISOcodes","ISOcodes","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2019.04.22",NA,"R (>= 2.10.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ISwR","ISwR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0-7",NA,"R (>= 2.6.0)",NA,NA,"survival,MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"iterators","iterators","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.10",NA,"R (>= 2.5.0), utils",NA,NA,"RUnit, foreach",NA,"Apache License (== 2.0)",NA,NA,NA,NA,"no","3.5.3"
+"itertools","itertools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-3",NA,"R (>= 2.14.0), iterators(>= 1.0.0)","parallel",NA,"foreach",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"janeaustenr","janeaustenr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.5",NA,"R (>= 3.1.2)",NA,NA,"dplyr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"janitor","janitor","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,"R (>= 3.1.2)","dplyr (>= 0.7.0), tidyr (>= 0.7.0), snakecase (>= 0.9.2),
+magrittr, purrr, rlang",NA,"testthat, knitr, rmarkdown, sf, tibble",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"jomo","jomo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.6-8",NA,NA,"stats, lme4, survival, MASS, ordinal",NA,"mitml",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"jpeg","jpeg","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-8",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"jqr","jqr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,"R (>= 3.1.2)","magrittr, lazyeval",NA,"roxygen2 (>= 6.1.0), jsonlite, testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"jsonlite","jsonlite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.6",NA,"methods",NA,NA,"httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp, sp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"jsonvalidate","jsonvalidate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,NA,"V8",NA,"knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"keras","keras","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2.4.1",NA,"R (>= 3.2)","generics (>= 0.0.1), reticulate (>= 1.10), tensorflow (>=
+1.13.1), tfruns (>= 1.0), magrittr, zeallot, methods, R6",NA,"ggplot2, testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"kernlab","kernlab","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-27",NA,"R (>= 2.10)","methods, stats, grDevices, graphics",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"klaR","klaR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6-14",NA,"R (>= 2.10.0), MASS","combinat, questionr, grDevices, stats, utils, graphics",NA,"scatterplot3d (>= 0.3-22), som, mlbench, rpart, e1071",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"knitcitations","knitcitations","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.8",NA,"R (>= 3.0)","RefManageR (>= 0.8.2), digest, httr (>= 0.3), methods, utils",NA,"testthat, knitr (>= 1.6)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"knitr","knitr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.24",NA,"R (>= 3.2.3)","evaluate (>= 0.10), highr, markdown, stringr (>= 0.6), yaml
+(>= 2.1.19), methods, xfun, tools",NA,"formatR, testit, digest, rgl (>= 0.95.1201), codetools,
+rmarkdown, htmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10),
+tinytex, reticulate (>= 1.4), JuliaCall (>= 0.11.1), magick,
+png, jpeg, gifski, xml2 (>= 1.2.0), httr, DBI (>= 0.4-1),
+showtext, tibble, styler",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"labeling","labeling","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3",NA,NA,NA,NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","3.5.2"
+"labelled","labelled","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2.1",NA,NA,"haven (>= 2.1.0), dplyr, stats",NA,"testthat, knitr, rmarkdown, questionr, snakecase","memisc","GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"Lahman","Lahman","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","7.0-1",NA,"R (>= 2.10)","dplyr",NA,"lattice, ggplot2, googleVis, data.table, vcd, reshape2,
+tidyr, zipcode, knitr, rmarkdown, car",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"later","later","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.0",NA,NA,"Rcpp (>= 0.12.9), rlang","Rcpp, BH","knitr, rmarkdown, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"latticeExtra","latticeExtra","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6-28",NA,"R (>= 2.10.0), lattice, RColorBrewer","grid, stats, utils, grDevices",NA,"maps, mapproj, deldir, tripack, zoo, MASS, quantreg, mgcv",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"lava","lava","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.6.5",NA,"R (>= 3.0)","grDevices, graphics, methods, numDeriv, stats, survival,
+SQUAREM, utils",NA,"KernSmooth, Matrix, Rgraphviz, data.table, ellipse, fields,
+foreach, geepack, gof (>= 0.9), graph, igraph (>= 0.6),
+lava.tobit (>= 0.4.7), lme4, mets (>= 1.1), nlme, optimx,
+polycor, quantreg, rgl, testthat (>= 0.11), visNetwork, zoo",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"lazyeval","lazyeval","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.2",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"leafem","leafem","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.1",NA,"R (>= 3.1.0)","htmltools (>= 0.3), htmlwidgets, leaflet (>= 2.0.1), raster,
+sf, sp",NA,"gdalUtils, plainview, png",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"leaflet","leaflet","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0.2",NA,"R (>= 3.1.0)","base64enc, crosstalk, htmlwidgets, htmltools, magrittr,
+markdown, methods, png, RColorBrewer, raster, scales (>=
+1.0.0), sp, stats, viridis (>= 0.5.1)",NA,"knitr, maps, sf, shiny, testit (>= 0.4), rgdal, rgeos, R6,
+RJSONIO, purrr, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"leafpop","leafpop","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.1",NA,NA,"base64enc, brew, gdalUtils, htmlwidgets, Rcpp (>= 1.0.0),
+svglite, uuid","Rcpp","lattice, leaflet (>= 2.0.0), sf, sp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"leafsync","leafsync","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.1.0), methods","htmltools (>= 0.3), htmlwidgets, leaflet (>= 2.0.1)",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"leaps","leaps","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0",NA,"",NA,NA,"biglm",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"libcoin","libcoin","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-4",NA,"R (>= 3.4.0)","stats, mvtnorm","mvtnorm","coin",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"linprog","linprog","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-2",NA,"R (>= 2.4.0), lpSolve",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"3.5.3"
+"lme4","lme4","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-21",NA,"R (>= 3.2.0), Matrix (>= 1.2-1), methods, stats","graphics, grid, splines, utils, parallel, MASS, lattice, boot,
+nlme (>= 3.1-123), minqa (>= 1.1.15), nloptr (>= 1.0.4)","Rcpp (>= 0.10.5), RcppEigen","knitr, rmarkdown, PKPDmodels, MEMSS, testthat (>= 0.8.1),
+ggplot2, mlmRev, optimx (>= 2013.8.6), gamm4, pbkrtest, HSAUR2,
+numDeriv, car, dfoptim",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"lmtest","lmtest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-37",NA,"R (>= 3.0.0), stats, zoo","graphics",NA,"car, strucchange, sandwich, dynlm, stats4, survival, AER",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"locfit","locfit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-9.1",NA,"R (>= 2.0.1)","lattice",NA,"akima, gam",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"lpSolve","lpSolve","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.6.13.1",NA,NA,NA,NA,NA,NA,"LGPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"lsei","lsei","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2-0",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"lubridate","lubridate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7.4",NA,"methods, R (>= 3.0.0)","stringr, Rcpp (>= 0.12.13),","Rcpp,","testthat, knitr, covr","chron, fts, timeSeries, timeDate, tis, tseries, xts, zoo","GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"lwgeom","lwgeom","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-7",NA,"R (>= 3.3.0)","Rcpp, units, sf (>= 0.6-0)","Rcpp, sf (>= 0.6-0)","covr, sp, geosphere, testthat",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"magic","magic","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-9",NA,"R (>= 2.10), abind",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"magick","magick","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2",NA,NA,"Rcpp (>= 0.12.12), magrittr, curl","Rcpp","av (>= 0.3), spelling, jsonlite, methods, knitr, rmarkdown,
+rsvg, webp, pdftools, ggplot2, raster, rgdal, gapminder,
+IRdisplay, tesseract (>= 2.0), gifski",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"magrittr","magrittr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5",NA,NA,NA,NA,"testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"manipulateWidget","manipulateWidget","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.10.0",NA,NA,"shiny (>= 1.0.3), miniUI, htmltools, htmlwidgets, knitr,
+methods, tools, base64enc, grDevices, codetools, webshot",NA,"dygraphs, leaflet, plotly, xts, rmarkdown, testthat, covr",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"mapproj","mapproj","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.6",NA,"R (>= 3.0.0), maps (>= 2.3-0)","stats, graphics",NA,NA,NA,"Lucent Public License",NA,NA,NA,NA,"yes","3.5.3"
+"maps","maps","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.3.0",NA,"R (>= 3.0.0)","graphics, utils",NA,"mapproj (>= 1.2-0), mapdata (>= 2.3.0), sp, maptools,
+rnaturalearth",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"maptools","maptools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-5",NA,"R (>= 2.10), sp (>= 1.0-11)","foreign (>= 0.8), methods, grid, lattice, stats, utils,
+grDevices",NA,"rgeos (>= 0.1-8), spatstat (>= 1.50), PBSmapping, maps,
+RColorBrewer, raster, polyclip, spatstat.utils","gpclib, RArcInfo","GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"mapview","mapview","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.7.0",NA,"methods, R (>= 2.10)","base64enc, brew, htmltools, htmlwidgets, lattice, leafem,
+leaflet (>= 2.0.0), leafpop, png, raster, Rcpp (>= 0.11.3),
+satellite, scales (>= 0.2.5), sf, sp, svglite, uuid,
+viridisLite, webshot","Rcpp","covr, dplyr, knitr, lwgeom, plainview, rmarkdown, stars,
+testthat",NA,"GPL (>= 3) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"markdown","markdown","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,"R (>= 2.11.1)","utils, mime (>= 0.3)",NA,"knitr, RCurl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"MASS","MASS","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","7.3-51.4","recommended","R (>= 3.1.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"Matrix","Matrix","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2-17","recommended","R (>= 3.2.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.5.3"
+"MatrixModels","MatrixModels","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-1",NA,"R (>= 3.0.1)","stats, methods, Matrix (>= 1.1-5)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"matrixStats","matrixStats","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.54.0",NA,"R (>= 2.12.0)",NA,NA,"base64enc, ggplot2, knitr, microbenchmark, R.devices, R.rsp",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","3.5.3"
+"mc2d","mc2d","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-18",NA,"R (>= 2.10.0), mvtnorm","stats, grDevices, graphics, utils",NA,"fitdistrplus, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"mclust","mclust","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.4.5",NA,"R (>= 3.0)","stats, utils, graphics, grDevices",NA,"knitr (>= 1.12), rmarkdown (>= 0.9), mix (>= 1.0), geometry
+(>= 0.3-6), MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"mda","mda","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-10",NA,"R (>= 1.9.0), stats, class",NA,NA,"earth",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"memoise","memoise","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,NA,"digest (>= 0.6.3)",NA,"testthat, aws.s3, httr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"mgcv","mgcv","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8-28","recommended","R (>= 2.14.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"mice","mice","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.6.0",NA,"methods, R (>= 2.10.0), lattice","broom, dplyr, grDevices, graphics, MASS, mitml, nnet,
+parallel, Rcpp, rlang, rpart, splines, stats, survival, utils","Rcpp","AGD, CALIBERrfimpute, gamlss, lme4, mitools, nlme, pan,
+randomForest, Zelig, BSDA, knitr, rmarkdown, testthat, HSAUR3,
+micemd, miceadds, tidyr",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"microbenchmark","microbenchmark","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-6",NA,NA,"graphics, stats",NA,"ggplot2, multcomp",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"mime","mime","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.5.3"
+"miniUI","miniUI","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.1.1",NA,NA,"shiny (>= 0.13), htmltools (>= 0.3), utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"minqa","minqa","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.4",NA,NA,"Rcpp (>= 0.9.10)","Rcpp",NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"mitml","mitml","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3-7",NA,NA,"pan, jomo, haven, grDevices, graphics, stats, utils",NA,"mice, miceadds, Amelia, lme4, nlme, geepack, survival, knitr,
+rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"mix","mix","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-10",NA,"stats",NA,NA,NA,NA,"Unlimited",NA,NA,NA,NA,"yes","3.5.2"
+"mixtools","mixtools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.0",NA,"R (>= 3.2.0)","MASS, segmented, stats, survival",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"mlbench","mlbench","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1-1",NA,"R (>= 2.10)",NA,NA,"lattice",NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.3"
+"MLmetrics","MLmetrics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.1",NA,"R (>= 2.10)","stats, utils, ROCR",NA,"e1071",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"mnormt","mnormt","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-5",NA,"R (>= 2.2.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"ModelMetrics","ModelMetrics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.2",NA,"R (>= 3.2.2)","Rcpp, data.table","Rcpp","testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"modelr","modelr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.4",NA,"R (>= 3.1)","broom, dplyr, magrittr, purrr (>= 0.2.2), rlang (>= 0.2.0),
+tibble, tidyr (>= 0.8.0)",NA,"compiler, covr, ggplot2, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"modeltools","modeltools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2-22",NA,"stats, stats4","methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"modes","modes","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.0",NA,"R (>= 3.2.2)",NA,NA,NA,NA,"CC BY-NC-SA 4.0",NA,NA,NA,NA,"no","3.5.2"
+"multcomp","multcomp","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-10",NA,"stats, graphics, mvtnorm (>= 1.0-10), survival (>= 2.39-4),
+TH.data (>= 1.0-2)","sandwich (>= 2.3-0), codetools",NA,"lme4 (>= 0.999375-16), nlme, robustbase, coin, MASS, foreign,
+xtable, lmtest, coxme (>= 2.2-1), SimComp, ISwR, tram (>=
+0.2-5)",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"munsell","munsell","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.0",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"mvtnorm","mvtnorm","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-11",NA,"R(>= 3.5.0)","stats, methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"naniar","naniar","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.2",NA,"R (>= 3.1.2)","dplyr, ggplot2, purrr, tidyr, tibble, magrittr, stats, visdat,
+rlang, forcats, viridis, glue, UpSetR",NA,"knitr, rmarkdown, testthat, rpart, rpart.plot, covr,
+gridExtra, wakefield, vdiffr, here, simputation, imputeTS,
+gdtools, Hmisc, spelling",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"nanotime","nanotime","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.4",NA,NA,"methods, bit64, RcppCCTZ (>= 0.2.3), zoo",NA,"RUnit, data.table, xts",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"NbClust","NbClust","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.0",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"ncdf4","ncdf4","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.16.1",NA,NA,NA,NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"Newdistns","Newdistns","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1",NA,"AdequacyModel",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"newsmd","newsmd","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.3.3)","R6",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"nlme","nlme","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.1-137","recommended","R (>= 3.4.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.5.3"
+"nloptr","nloptr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.1",NA,NA,NA,NA,"testthat (>= 0.8.1), knitr, rmarkdown, inline (>= 0.3.14)",NA,"LGPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"npsurv","npsurv","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-0",NA,"lsei","methods",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"numDeriv","numDeriv","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2016.8-1.1",NA,"R (>= 2.11.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"nycflights13","nycflights13","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 2.10)","tibble",NA,"dplyr",NA,"CC0",NA,NA,NA,NA,"no","3.5.3"
+"odbc","odbc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.6",NA,"R (>= 3.2.0)","DBI (>= 1.0.0), methods, Rcpp (>= 0.12.11), blob (>= 1.1.0),
+bit64, hms","Rcpp, BH","tibble, DBItest, testthat, covr, magrittr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"openssl","openssl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.1",NA,NA,"askpass",NA,"testthat, digest, knitr, rmarkdown, jsonlite, jose, sodium",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"ordinal","ordinal","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2019.4-25",NA,"R (>= 2.13.0), stats, methods","ucminf, MASS, Matrix, numDeriv",NA,"lme4, nnet, xtable, testthat (>= 0.8), tools",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"osmdata","osmdata","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.1",NA,"R (>= 3.2.4)","curl, httr, lubridate, magrittr, methods, Rcpp (>= 0.12.4),
+rvest, jsonlite, sp, tibble, utils, xml2","Rcpp","devtools, knitr, pkgdown, raster, rmarkdown, roxygen2, sf,
+testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"packcircles","packcircles","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.3",NA,"R (>= 3.2)","Rcpp (>= 0.12.18)","Rcpp (>= 0.12.10)","ggiraph, ggplot2, knitr, rmarkdown, lpSolve",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"packrat","packrat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.0",NA,"R (>= 3.0.0)","tools, utils",NA,"testthat (>= 0.7), devtools, httr, knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"pamr","pamr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.56.1",NA,"R (>= 2.10), cluster, survival",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"pan","pan","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.6",NA,NA,NA,NA,"mitools, lme4",NA,"GPL-3",NA,"no",NA,NA,"yes","3.5.3"
+"parsedate","parsedate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,NA,"rematch2",NA,"covr, testthat, withr",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"party","party","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-3",NA,"R (>= 3.0.0), methods, grid, stats, mvtnorm (>= 1.0-2),
+modeltools (>= 0.2-21), strucchange","survival (>= 2.37-7), coin (>= 1.1-0), zoo, sandwich (>=
+1.1-1)","mvtnorm","TH.data (>= 1.0-3), mlbench, colorspace, MASS, vcd, ipred,
+varImp",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"partykit","partykit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2-5",NA,"R (>= 3.1.0), graphics, grid, libcoin (>= 1.0-0), mvtnorm","grDevices, stats, utils, survival, Formula (>= 1.2-1), inum
+(>= 1.0-0), rpart (>= 4.1-11)",NA,"XML, pmml, rJava, sandwich, strucchange, vcd, AER, mlbench,
+TH.data (>= 1.0-3), coin (>= 1.1-0), RWeka (>= 0.4-19),
+datasets, parallel, psychotools (>= 0.3-0), psychotree, party
+(>= 1.3-0)",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"pcaPP","pcaPP","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.9-73",NA,NA,"mvtnorm",NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.2"
+"pdftools","pdftools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2",NA,NA,"Rcpp (>= 0.12.12), qpdf","Rcpp","jpeg, png, webp, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"PerformanceAnalytics","PerformanceAnalytics","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5.3",NA,"R (>= 3.0.0), xts (>= 0.10.0)","methods, quadprog, zoo",NA,"dygraphs, Hmisc, MASS, quantmod, gamlss, gamlss.dist,
+robustbase, quantreg, gplots, testthat",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"permute","permute","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-5",NA,"R (>= 2.14.0)","stats",NA,"vegan (>= 2.0-0), testthat (>= 0.5), parallel",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"pillar","pillar","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.2",NA,NA,"cli, crayon (>= 1.3.4), fansi, rlang (>= 0.3.0), utf8 (>=
+1.1.0), vctrs",NA,"knitr, lubridate, testthat, withr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"pinp","pinp","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.7",NA,NA,"rmarkdown, knitr",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"pkgbuild","pkgbuild","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.3",NA,"R (>= 3.1)","callr (>= 2.0.0), cli, crayon, desc, prettyunits, R6,
+rprojroot, withr (>= 2.1.2)",NA,"Rcpp, testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"pkgconfig","pkgconfig","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0.2",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"pkgKitten","pkgKitten","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.4",NA,NA,NA,NA,"whoami (>= 1.1.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"pkgload","pkgload","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.2",NA,NA,"desc, methods, pkgbuild, rlang, rprojroot, rstudioapi, utils,
+withr",NA,"bitops, covr, Rcpp, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"plogr","plogr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.0",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"plotly","plotly","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.9.0",NA,"R (>= 3.2.0), ggplot2 (>= 3.0.0)","tools, scales, httr, jsonlite (>= 1.6), magrittr, digest,
+viridisLite, base64enc, htmltools (>= 0.3.6), htmlwidgets (>=
+1.3), tidyr, hexbin, RColorBrewer, dplyr, tibble, lazyeval (>=
+0.2.0), rlang, crosstalk, purrr, data.table, promises",NA,"MASS, maps, ggthemes, GGally, testthat, knitr, devtools,
+shiny (>= 1.1.0), shinytest (>= 1.3.0), curl, rmarkdown,
+vdiffr, Cairo, broom, webshot, listviewer, dendextend, sf,
+maptools, rgeos, png, IRdisplay, processx, plotlyGeoAssets,
+forcats",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"plotmo","plotmo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.5.5",NA,"R (>= 3.4.0), Formula (>= 1.2-3), plotrix, TeachingDemos",NA,NA,"C50 (>= 0.1.0-24), earth (>= 5.1.0), gbm (>= 2.1.1), glmnet
+(>= 2.0.5), glmnetUtils (>= 1.0.3), MASS (>= 7.3-45), mlr (>=
+2.12.1), neuralnet (>= 1.33), partykit (>= 1.2-2), pre (>=
+0.5.0), rpart (>= 4.1-10), rpart.plot (>= 2.1.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"plotrix","plotrix","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.7-6",NA,"R (>= 3.5.0)","grDevices, graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"pls","pls","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.7-1",NA,"R (>= 2.10)","grDevices, graphics, methods, stats",NA,"MASS, parallel, Rmpi, testthat, RUnit",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"plyr","plyr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8.4",NA,"R (>= 3.1.0)","Rcpp (>= 0.11.0)","Rcpp","abind, testthat, tcltk, foreach, doParallel, itertools,
+iterators, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"png","png","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-7",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"polspline","polspline","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.15",NA,NA,"stats, graphics",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"polyclip","polyclip","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.10-0",NA,"R (>= 3.0.0)",NA,NA,NA,NA,"BSL",NA,NA,NA,NA,"yes","3.5.3"
+"polynom","polynom","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-0",NA,NA,"stats, graphics",NA,"knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"pool","pool","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.4.2",NA,"R (>= 3.0.0), methods","DBI, R6, dplyr, dbplyr, later",NA,"testthat, tibble, RSQLite, RMySQL",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"praise","praise","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"prettydoc","prettydoc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,NA,"rmarkdown (>= 1.0)",NA,"knitr, KernSmooth",NA,"Apache License (>= 2.0)",NA,NA,NA,NA,"no","3.5.3"
+"prettyunits","prettyunits","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.2",NA,NA,"magrittr, assertthat, methods",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"pROC","pROC","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.15.0",NA,"R (>= 2.14)","methods, plyr, Rcpp (>= 0.11.1)","Rcpp","microbenchmark, tcltk, MASS, logcondens, doParallel,
+testthat, vdiffr, ggplot2",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"processx","processx","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.4.1",NA,NA,"ps (>= 1.2.0), R6, utils",NA,"callr (>= 3.2.0), codetools, covr, crayon, curl, debugme,
+parallel, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"prodlim","prodlim","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2018.04.18",NA,"R (>= 2.9.0)","Rcpp (>= 0.11.5), stats, graphics, survival, KernSmooth, lava","Rcpp",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"profileModel","profileModel","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.0",NA,"R (>= 2.6.0)",NA,NA,"MASS, gnm",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"progress","progress","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.2",NA,NA,"hms, prettyunits, R6, crayon",NA,"Rcpp, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"promises","promises","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.1",NA,NA,"R6, Rcpp, later, rlang, stats, magrittr","later, Rcpp","testthat, future, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"proto","proto","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,NA,NA,"testthat, covr",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"protolite","protolite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.9",NA,NA,"Rcpp (>= 0.12.12), jsonlite","Rcpp","testthat, RProtoBuf",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"proxy","proxy","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-23",NA,"R (>= 3.4.0)","stats, utils",NA,"cba",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"ps","ps","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.0",NA,"R (>= 3.1)","utils",NA,"callr, covr, curl, pingr, processx (>= 3.1.0), R6, rlang,
+testthat, tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"pspline","pspline","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-18",NA,"R (>= 2.0.0), stats, graphics",NA,NA,NA,NA,"Unlimited",NA,NA,NA,NA,"yes","3.5.2"
+"psych","psych","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8.12",NA,"R (>= 2.10)","mnormt,parallel,stats,graphics,grDevices,methods,foreign,lattice,nlme",NA,"GPArotation, lavaan, sem, lme4,Rcsdp, graph, Rgraphviz",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"purrr","purrr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.2",NA,"R (>= 3.1)","magrittr (>= 1.5), rlang (>= 0.3.1)",NA,"covr, crayon, dplyr (>= 0.7.8), knitr, rmarkdown, testthat,
+tibble, tidyselect",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"qpdf","qpdf","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1",NA,NA,"Rcpp, askpass, curl","Rcpp","testthat",NA,"Apache License 2.0",NA,NA,NA,NA,"yes","3.5.3"
+"quadprog","quadprog","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-7",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"qualV","qualV","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3-3",NA,"R (>= 2.0.0), KernSmooth","graphics, grDevices, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"quantmod","quantmod","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-15",NA,"R (>= 3.2.0), xts(>= 0.9-0), zoo, TTR(>= 0.2), methods","curl",NA,"DBI,RMySQL,RSQLite,timeSeries,XML,downloader,jsonlite(>= 1.1)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"quantreg","quantreg","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.42",NA,"R (>= 2.6), stats, SparseM","methods, graphics, Matrix, MatrixModels",NA,"tripack, akima, MASS, survival, rgl, logspline, nor1mix,
+Formula, zoo, R.rsp",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"questionr","questionr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.0",NA,"R (>= 2.10)","shiny (>= 1.0.5), miniUI, rstudioapi, highr, classInt,
+htmltools, graphics, stats, utils, labelled (>= 2.0.0)",NA,"memisc, testthat, roxygen2, dplyr, tidyr, janitor, forcats,
+knitr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"qvcalc","qvcalc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,NA,NA,"relimp, MASS, pkgdown","psychotools","GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"R.methodsS3","R.methodsS3","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7.1",NA,"R (>= 2.13.0)","utils",NA,NA,NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.5.2"
+"R.oo","R.oo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.22.0",NA,"R (>= 2.13.0), R.methodsS3 (>= 1.7.1)","methods, utils",NA,"tools",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.5.2"
+"R.utils","R.utils","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.9.0",NA,"R (>= 2.14.0), R.oo (>= 1.22.0)","methods, utils, tools, R.methodsS3 (>= 1.7.1)",NA,"digest (>= 0.6.10)",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.5.3"
+"R6","R6","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.4.0",NA,"R (>= 3.0)",NA,NA,"knitr, microbenchmark, pryr, testthat, ggplot2, scales",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"randomForest","randomForest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.6-14",NA,"R (>= 3.2.2), stats",NA,NA,"RColorBrewer, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RANN","RANN","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.6.1",NA,NA,NA,NA,"testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"rappdirs","rappdirs","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.1",NA,"R (>= 2.14), methods",NA,NA,"testthat, roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"raster","raster","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.9-23",NA,"sp (>= 1.2-0), R (>= 3.0.0)","Rcpp, methods","Rcpp","rgdal (>= 0.9-1), rgeos (>= 0.3-8), ncdf4, igraph, tcltk,
+parallel, rasterVis, MASS, sf, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"rasterVis","rasterVis","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.46",NA,"R (>= 2.14.0), methods, raster (>= 2.0-12), lattice,
+latticeExtra","stats, utils, parallel, grid, grDevices, RColorBrewer, hexbin,
+sp (>= 1.0-6), zoo, viridisLite",NA,"rgl, ggplot2, colorspace, dichromat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"rbenchmark","rbenchmark","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"3.5.2"
+"rcmdcheck","rcmdcheck","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.3",NA,NA,"callr (>= 3.1.1.9000), cli (>= 1.1.0), crayon, desc (>=
+1.2.0), digest, pkgbuild, prettyunits, R6, rprojroot,
+sessioninfo (>= 1.1.1), utils, withr, xopen",NA,"covr, knitr, mockery, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"RColorBrewer","RColorBrewer","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-2",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.5.2"
+"Rcpp","Rcpp","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.2",NA,"R (>= 3.0.0)","methods, utils",NA,"RUnit, inline, rbenchmark, knitr, rmarkdown, pinp, pkgKitten
+(>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RcppArmadillo","RcppArmadillo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9.600.4.0",NA,"R (>= 3.3.0)","Rcpp (>= 0.11.0), stats, utils, methods","Rcpp","RUnit, Matrix, pkgKitten, reticulate, rmarkdown, knitr, pinp,
+slam",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RcppCCTZ","RcppCCTZ","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.5",NA,NA,"Rcpp (>= 0.11.0)","Rcpp","RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RcppEigen","RcppEigen","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.3.5.0",NA,"R (>= 2.15.1)","Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils","Rcpp","inline, RUnit, pkgKitten, microbenchmark",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"RcppProgress","RcppProgress","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.1",NA,NA,NA,NA,"RcppArmadillo, devtools, roxygen2, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.3"
+"RcppRoll","RcppRoll","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,"R (>= 2.15.1)","Rcpp","Rcpp","zoo, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RCurl","RCurl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.95-4.12",NA,"R (>= 3.0.0), methods, bitops",NA,NA,"Rcompression, XML",NA,"BSD",NA,NA,NA,NA,"yes","3.5.3"
+"reactlog","reactlog","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.0.2)","jsonlite (>= 0.9.16)",NA,"shiny, knitr, rmarkdown, htmltools",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"readr","readr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.1",NA,"R (>= 3.1)","Rcpp (>= 0.12.0.5), tibble, hms (>= 0.4.1), R6, clipr, crayon,
+methods","Rcpp, BH","curl, testthat, knitr, rmarkdown, stringi, covr, spelling",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"readxl","readxl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.1",NA,NA,"cellranger, Rcpp (>= 0.12.18), tibble (>= 1.3.1), utils","progress, Rcpp","covr, knitr, rmarkdown, rprojroot (>= 1.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"recipes","recipes","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.6",NA,"R (>= 3.1), dplyr","generics, glue, gower, ipred, lubridate, magrittr, Matrix,
+purrr (>= 0.2.3), rlang (>= 0.4.0), stats, tibble, tidyr,
+tidyselect (>= 0.2.5), timeDate, utils, withr",NA,"covr, ddalpha, dimRed (>= 0.2.2), fastICA, ggplot2, igraph,
+kernlab, knitr, pls, RANN, RcppRoll, rmarkdown, rpart, rsample,
+RSpectra, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"RefManageR","RefManageR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.12",NA,"R (>= 3.0)","xml2, jsonlite, utils, plyr, tools, httr, bibtex (>= 0.4.1),
+lubridate (>= 1.5.0), stringr, methods",NA,"knitr, testthat,",NA,"GPL-2 | GPL-3 | BSD_3_clause + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rematch","rematch","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.1",NA,NA,NA,NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rematch2","rematch2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.0",NA,NA,"tibble",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"remotes","remotes","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.0",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, codetools, curl, covr, git2r (>= 0.23.0), knitr,
+mockery, pkgbuild (>= 1.0.1), pingr, rmarkdown, rprojroot,
+testthat, withr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"reprex","reprex","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,"R (>= 3.1)","callr (>= 2.0.0), clipr (>= 0.4.0), fs, rlang, rmarkdown,
+utils, whisker, withr",NA,"covr, devtools, fortunes, knitr, miniUI, rprojroot,
+rstudioapi, shiny, styler (>= 1.0.2), testthat (>= 2.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"reshape2","reshape2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.3",NA,"R (>= 3.1)","plyr (>= 1.8.1), Rcpp, stringr","Rcpp","covr, lattice, testthat (>= 0.8.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"reticulate","reticulate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.12",NA,"R (>= 3.0)","utils, graphics, jsonlite, Rcpp (>= 0.12.7), Matrix","Rcpp","testthat, knitr, callr, rmarkdown",NA,"Apache License 2.0",NA,NA,NA,NA,"yes","3.5.3"
+"rex","rex","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.2",NA,NA,"magrittr, lazyeval",NA,"testthat, knitr, rmarkdown, dplyr, ggplot2, Hmisc, stringr,
+rvest, roxygen2, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rgdal","rgdal","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-4",NA,"R (>= 3.3.0), methods, sp (>= 1.1-0)","grDevices, graphics, stats, utils","sp",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rgenoud","rgenoud","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.8-3.0",NA,"R (>= 2.15), utils",NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"rgeos","rgeos","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-3",NA,"R (>= 3.3.0), methods, sp (>= 1.1-0)","utils, stats, graphics","sp","maptools (>= 0.8-5), testthat, XML, maps, rgdal",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rgl","rgl","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.100.26",NA,"R (>= 3.2.0)","graphics, grDevices, stats, utils, htmlwidgets, htmltools,
+knitr, jsonlite (>= 0.9.20), shiny, magrittr, crosstalk,
+manipulateWidget (>= 0.9.0)",NA,"MASS, rmarkdown, deldir, orientlib, lattice, misc3d,
+rstudioapi, magick, plotrix (>= 3.7-3), tripack, interp,
+alphashape3d",NA,"GPL",NA,NA,NA,NA,"yes","3.5.3"
+"RgoogleMaps","RgoogleMaps","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.3",NA,"R (>= 2.10)","graphics, stats, utils, grDevices, methods, png",NA,"PBSmapping, maptools, sp, loa, RColorBrewer, leaflet",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"RH2","RH2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.4",NA,"chron, methods, RJDBC, rJava",NA,NA,NA,NA,"Mozilla Public License 1.1",NA,NA,NA,NA,"no","3.5.3"
+"rhub","rhub","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.1",NA,NA,"assertthat, callr, cli (>= 1.1.0), crayon, desc, digest, httr,
+jsonlite, parsedate, pillar, prettyunits, processx, R6,
+rappdirs, rcmdcheck (>= 1.2.1), rematch, tibble, utils, uuid,
+whoami, withr",NA,"covr, testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"RInno","RInno","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.1",NA,"R (>= 3.3.0)","curl, glue (>= 1.2.0), httr, installr, jsonlite, magrittr,
+methods, pkgbuild, remotes, rmarkdown, shiny, stringr , utils",NA,"knitr, stringi, covr, testthat",NA,"GPL-3 | file LICENSE",NA,NA,"windows",NA,"no","3.5.3"
+"rJava","rJava","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9-11",NA,"R (>= 2.5.0), methods",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"RJDBC","RJDBC","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2-7.1",NA,"methods, DBI, rJava (>= 0.4-15), R (>= 2.4.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rjson","rjson","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.20",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"RJSONIO","RJSONIO","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-1.2",NA,NA,"methods",NA,NA,NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"rlang","rlang","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.0",NA,"R (>= 3.2.0)",NA,NA,"covr, crayon, magrittr, methods, pillar, rmarkdown, testthat
+(>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"rmapshaper","rmapshaper","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.1",NA,NA,"geojsonio (>= 0.6.0), geojsonlint (>= 0.2.0), jsonlite (>=
+1.5), methods, readr (>= 1.1.1), sf (>= 0.6), sp (>= 1.2-7), V8
+(>= 1.5)",NA,"knitr, magrittr, rgeos, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rmarkdown","rmarkdown","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.15",NA,"R (>= 3.0)","tools, utils, knitr (>= 1.22), yaml (>= 2.1.19), htmltools (>=
+0.3.5), evaluate (>= 0.13), base64enc, jsonlite, mime, tinytex
+(>= 0.11), xfun, methods, stringr (>= 1.2.0)",NA,"shiny (>= 0.11), tufte, testthat, digest, dygraphs, tibble,
+fs, pkgdown, callr (>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"rms","rms","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","5.1-3.1",NA,"Hmisc (>= 4.1-1), survival (>= 2.40-1), lattice, ggplot2 (>=
+2.2), SparseM","methods, quantreg, rpart, nlme (>= 3.1-123), polspline,
+multcomp, htmlTable (>= 1.11.0), htmltools",NA,"boot, tcltk, plotly (>= 4.5.6)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RMySQL","RMySQL","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.10.17",NA,"R (>= 2.8.0), DBI (>= 0.4)","methods",NA,"RMariaDB, testthat, curl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"robustbase","robustbase","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.93-5",NA,"R (>= 3.1.0)","stats, graphics, utils, methods, DEoptimR",NA,"grid, MASS, lattice, boot, cluster, Matrix, robust,
+fit.models, MPV, xtable, ggplot2, GGally, RColorBrewer,
+reshape2, sfsmisc, catdata, doParallel, foreach, skewt",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"ROCR","ROCR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-7",NA,"gplots, methods",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"RODBC","RODBC","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-15",NA,"R (>= 3.0.0)","stats",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"roxygen2","roxygen2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","6.1.1",NA,"R (>= 3.1)","brew, commonmark, desc (>= 1.2.0), digest, methods, pkgload
+(>= 1.0.2), purrr, R6 (>= 2.1.2), Rcpp (>= 0.11.0), stringi,
+stringr (>= 1.0.0), utils, xml2","Rcpp","covr, devtools, knitr, rmarkdown, testthat (>= 0.8.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rpart","rpart","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.1-15","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"RPostgres","RPostgres","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.1",NA,"R (>= 3.1.0)","bit64, blob (>= 1.1.1), DBI (>= 1.0.0), hms, methods, Rcpp (>=
+0.11.4.2), withr","BH, plogr (>= 0.2.0), Rcpp","DBItest, testthat",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"RPostgreSQL","RPostgreSQL","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6-2",NA,"R (>= 2.9.0), methods, DBI (>= 0.3)",NA,NA,NA,NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"rprojroot","rprojroot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-2",NA,"R (>= 3.0.0)","backports",NA,"testthat, mockr, knitr, withr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"rsconnect","rsconnect","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.13",NA,"R (>= 3.0.0)","openssl, RCurl, jsonlite, packrat (>= 0.4.8-1), yaml (>=
+2.1.5), rstudioapi (>= 0.5)",NA,"knitr, testthat, rmarkdown (>= 1.1), plumber (>= 0.3.2),
+reticulate, shiny, sourcetools, xtable",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"RSQLite","RSQLite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.1",NA,"R (>= 3.1.0)","bit64, blob (>= 1.1.1), DBI (>= 1.0.0), memoise, methods,
+pkgconfig, Rcpp (>= 0.12.7)","BH, plogr (>= 0.2.0), Rcpp","DBItest, knitr, rmarkdown, testthat",NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rstudioapi","rstudioapi","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.10",NA,NA,NA,NA,"testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rticles","rticles","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9",NA,NA,"utils, rmarkdown, knitr, yaml, tinytex, xfun",NA,"testit, bookdown, xtable",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"Rttf2pt1","Rttf2pt1","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.7",NA,"R (>= 2.15)",NA,NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.5.2"
+"rtweet","rtweet","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.9",NA,"R (>= 3.1.0)","httr (>= 1.3.0), jsonlite (>= 0.9.22), magrittr (>= 1.5.0),
+tibble (>= 1.3.4), utils, progress, Rcpp, httpuv","Rcpp","ggplot2, knitr, magick, openssl, readr, rmarkdown, testthat
+(>= 2.1.0), webshot, covr, igraph",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"RUnit","RUnit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.32",NA,"R (>= 2.5.0), utils (>= 2.5.0), methods (>= 2.5.0), graphics
+(>= 2.5.0)",NA,NA,"XML (>= 3.1.0)",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"rvest","rvest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.4",NA,"R (>= 3.2), xml2","httr (>= 0.5), magrittr, selectr",NA,"covr, knitr, png, rmarkdown, spelling, stringi (>= 0.3.1),
+testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"sandwich","sandwich","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.5-1",NA,"R (>= 2.10.0)","stats, utils, zoo",NA,"AER, car, geepack, lattice, lmtest, MASS, multiwayvcov,
+parallel, pcse, plm, pscl, scatterplot3d, stats4, strucchange,
+survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"satellite","satellite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.1",NA,"R (>= 2.10), raster, methods, utils, stats, grDevices,
+graphics","plyr, Rcpp (>= 0.10.3), tools, stats4","Rcpp","devtools, knitr, rgdal, testthat, rmarkdown",NA,"GPL (>= 3) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"scales","scales","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.1)","labeling, munsell (>= 0.5), R6, RColorBrewer, Rcpp,
+viridisLite","Rcpp","dichromat, bit64, covr, hms, testthat (>= 2.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"seasonal","seasonal","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7.0",NA,"R (>= 2.15)","x13binary",NA,"seasonalview (>= 0.1.3)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"segmented","segmented","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-0",NA,NA,NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"selectr","selectr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-1",NA,"R (>= 3.0)","methods, stringr, R6",NA,"testthat, XML, xml2",NA,"BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","3.5.3"
+"sessioninfo","sessioninfo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.1",NA,NA,"cli, tools, utils, withr",NA,"callr, covr, mockery, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"sf","sf","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7-6",NA,"methods, R (>= 3.3.0)","classInt (>= 0.2-1), DBI (>= 0.8), graphics, grDevices, grid,
+magrittr, Rcpp (>= 0.12.18), stats, tools, units (>= 0.6-0),
+utils","Rcpp","blob, covr, dplyr (>= 0.8-0), ggplot2, knitr, lwgeom (>=
+0.1-5), maps, maptools, mapview, microbenchmark, odbc, pillar,
+pool, raster, rgdal, rgeos, rlang, rmarkdown, RPostgres (>=
+1.1.0), RPostgreSQL, RSQLite, sp (>= 1.2-4), spatstat, stars
+(>= 0.2-0), testthat, tibble (>= 1.4.1), tidyr (>= 0.7-2),
+tidyselect, tmap (>= 2.0)",NA,"GPL-2 | MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"sfsmisc","sfsmisc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-4",NA,"R (>= 3.2.0)","grDevices, methods, utils, stats",NA,"datasets, tcltk, cluster, lattice, MASS, Matrix, nlme, lokern","mgcv, rpart, nor1mix, polycor, sm, tikzDevice","GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"shiny","shiny","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.2",NA,"R (>= 3.0.2), methods","utils, grDevices, httpuv (>= 1.5.0), mime (>= 0.3), jsonlite
+(>= 0.9.16), xtable, digest, htmltools (>= 0.3.6), R6 (>= 2.0),
+sourcetools, later (>= 0.7.2), promises (>= 1.0.1), tools,
+crayon, rlang",NA,"datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+markdown, rmarkdown, ggplot2, reactlog (>= 1.0.0), magrittr",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"shinyAce","shinyAce","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4.0",NA,"R (>= 3.3.0)","shiny (>= 1.0.5), jsonlite",NA,"testthat (>= 2.0.0), dplyr (>= 0.8.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"shinycssloaders","shinycssloaders","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.0",NA,NA,"digest, glue, grDevices, shiny",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"shinydashboard","shinydashboard","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.1",NA,"R (>= 3.0)","utils, shiny (>= 1.0.0), htmltools (>= 0.2.6), promises",NA,NA,NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"shinyFiles","shinyFiles","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7.3",NA,NA,"htmltools, jsonlite, tools, shiny (>= 1.1.0), fs (>= 1.2.6),
+tibble (>= 1.4.2)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"shinyjs","shinyjs","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,"R (>= 3.1.0)","digest (>= 0.6.8), htmltools (>= 0.2.9), jsonlite, shiny (>=
+1.0.0)",NA,"knitr (>= 1.7), rmarkdown, shinyAce, testthat (>= 0.9.1), V8
+(>= 0.6)",NA,"AGPL-3",NA,NA,NA,NA,"no","3.5.3"
+"shinyShortcut","shinyShortcut","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.2.3)",NA,NA,"testthat, covr",NA,"GPL (>= 3) | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"shinythemes","shinythemes","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.2",NA,"R (>= 3.0.0)","shiny (>= 0.11)",NA,NA,NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"slam","slam","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-45",NA,"R (>= 3.4.0)","stats",NA,NA,"Matrix, SparseM, spam","GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"SnowballC","SnowballC","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.0",NA,NA,NA,NA,NA,NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.2"
+"sourcetools","sourcetools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.7",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"sp","sp","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-1",NA,"R (>= 3.0.0), methods","utils, stats, graphics, grDevices, lattice, grid",NA,"RColorBrewer, rgdal (>= 0.8-7), rgeos (>= 0.3-13), gstat,
+maptools, deldir",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"SparseM","SparseM","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.77",NA,"R (>= 2.15), methods","graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"spatstat","spatstat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.60-1",NA,"R (>= 3.3.0), spatstat.data (>= 1.4-0), stats, graphics,
+grDevices, utils, methods, nlme, rpart","spatstat.utils (>= 1.13-0), mgcv, Matrix, deldir (>= 0.0-21),
+abind, tensor, polyclip (>= 1.10-0), goftest",NA,"sm, maptools, gsl, locfit, spatial, rpanel, tkrplot,
+RandomFields (>= 3.1.24.1), RandomFieldsUtils(>= 0.3.3.1),
+fftwtools (>= 0.9-8)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"spatstat.data","spatstat.data","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4-0",NA,"R (>= 3.3.0)","spatstat.utils",NA,"spatstat (>= 1.55-0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"spatstat.utils","spatstat.utils","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.13-0",NA,"R (>= 3.3.0), stats, graphics, grDevices, utils, methods",NA,NA,"spatstat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"spelling","spelling","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1",NA,NA,"commonmark, xml2, hunspell (>= 3.0), knitr",NA,"pdftools",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"spls","spls","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2-3",NA,"R (>= 2.14)","MASS, nnet, parallel, pls",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"sqldf","sqldf","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.4-11",NA,"R (>= 3.1.0), gsubfn (>= 0.6), proto, RSQLite","DBI, chron",NA,"RH2, RMySQL, RPostgreSQL, svUnit, tcltk, MASS",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"SQUAREM","SQUAREM","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2017.10-1",NA,"R (>= 3.0)",NA,NA,"setRNG",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"stabledist","stabledist","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7-1",NA,"R (>= 3.1.0)","stats",NA,"Matrix, fBasics, FMStable, RUnit, Rmpfr, sfsmisc",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"stars","stars","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3-1",NA,"R (>= 3.3.0), abind, sf (>= 0.7-3)","methods, parallel, classInt (>= 0.2-2), rlang, units",NA,"PCICt, RNetCDF (>= 1.8-2), covr, dplyr (>= 0.7-0),
+future.apply, ggforce, ggplot2, ggthemes, gstat, httr,
+jsonlite, knitr, lwgeom, maps, ncmeta (>= 0.0.3), pbapply, plm,
+raster, rmarkdown, sp, spacetime, testthat, viridis, xts, zoo,
+starsdata",NA,"Apache License",NA,NA,NA,NA,"no","3.5.3"
+"startupmsg","startupmsg","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9.6",NA,"R(>= 1.8.0)",NA,NA,NA,NA,"LGPL-3",NA,NA,NA,NA,"no","3.5.3"
+"stopwords","stopwords","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9.0",NA,"R (>= 2.10)","ISOcodes",NA,"quanteda, testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"stringdist","stringdist","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9.5.2",NA,"R (>= 2.15.3)","parallel",NA,"tinytest",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"stringi","stringi","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.3",NA,"R (>= 2.14)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.5.3"
+"stringr","stringr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.0",NA,"R (>= 3.1)","glue (>= 1.2.0), magrittr, stringi (>= 1.1.7)",NA,"covr, htmltools, htmlwidgets, knitr, rmarkdown, testthat",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"striprtf","striprtf","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.2",NA,"R (>= 3.0)","magrittr, Rcpp, stringr, utils","Rcpp","testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"strucchange","strucchange","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5-1",NA,"R (>= 2.10.0), zoo, sandwich","graphics, stats",NA,"stats4, car, dynlm, e1071, foreach, lmtest, mvtnorm, tseries",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"subcopem2D","subcopem2D","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3",NA,NA,NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"subselect","subselect","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.14",NA,NA,"MASS, ISwR, corpcor",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"superpc","superpc","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.09",NA,"survival",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.3"
+"survival","survival","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.44-1.1","recommended","R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"svglite","svglite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.2",NA,"R (>= 3.0.0)","Rcpp, gdtools (>= 0.1.6)","Rcpp, gdtools, BH","htmltools, testthat, xml2 (>= 1.0.0), covr, fontquiver (>=
+0.2.0), knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"svUnit","svUnit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.7-12",NA,"R (>= 1.9.0)",NA,NA,"svGUI, datasets, utils, XML",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"sys","sys","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.2",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tables","tables","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.8",NA,"R (>= 2.12.0), Hmisc","stats, utils, knitr",NA,"magrittr, kableExtra (>= 0.9.0)",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"taskscheduleR","taskscheduleR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4",NA,NA,"data.table, tools, utils",NA,"knitr, miniUI, shiny, testthat",NA,"AGPL-3",NA,NA,"windows",NA,"no","3.5.3"
+"TeachingDemos","TeachingDemos","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.10",NA,NA,NA,NA,"tkrplot, lattice, MASS, rgl, tcltk, tcltk2, png, ggplot2,
+logspline, maptools, R2wd, manipulate",NA,"Artistic-2.0",NA,NA,NA,NA,"no","3.5.3"
+"tensor","tensor","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"3.5.2"
+"tensorflow","tensorflow","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.13.1",NA,"R (>= 3.1)","config, jsonlite (>= 1.2), processx, reticulate (>= 1.10),
+tfruns (>= 1.0), utils, yaml, rstudioapi (>= 0.7)",NA,"testthat, keras, tfestimators",NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.5.3"
+"tesseract","tesseract","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","4.0",NA,NA,"Rcpp (>= 0.12.12), pdftools (>= 1.5), curl, rappdirs, digest","Rcpp","magick (>= 1.7), spelling, knitr, tibble, rmarkdown",NA,"Apache License 2.0",NA,NA,NA,NA,"yes","3.5.3"
+"testit","testit","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9",NA,NA,NA,NA,"rstudioapi",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"testthat","testthat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.1",NA,"R (>= 3.1)","cli, crayon (>= 1.3.4), digest, magrittr, methods, praise, R6
+(>= 2.2.0), rlang (>= 0.3.0), withr (>= 2.0.0)",NA,"covr, curl (>= 0.9.5), devtools, knitr, rmarkdown, usethis,
+vctrs (>= 0.1.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"textreadr","textreadr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.9.0",NA,"R (>= 3.2.2)","antiword, curl, data.table, pdftools, readxl, rvest, striprtf,
+textshape, tools, utils, xml2",NA,"tesseract, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"textshape","textshape","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.6.0",NA,"R (>= 3.4.0)","data.table, slam, stats, stringi, utils",NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"tfruns","tfruns","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4",NA,"R (>= 3.1)","utils, jsonlite (>= 1.2), base64enc, yaml, config, magrittr,
+whisker, tidyselect, rlang, rstudioapi (>= 0.7), reticulate",NA,"testthat, knitr",NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.5.3"
+"TH.data","TH.data","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-10",NA,"R (>= 2.10.0), survival, MASS",NA,NA,"dplyr, gdata, plyr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"tibble","tibble","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.3",NA,"R (>= 3.1.0)","cli, crayon (>= 1.3.4), fansi (>= 0.4.0), methods, pillar (>=
+1.3.1), pkgconfig, rlang (>= 0.3.0), utils",NA,"bench, covr, dplyr, htmltools, import, knitr, mockr,
+nycflights13, rmarkdown, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tidyr","tidyr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8.3",NA,"R (>= 3.1)","dplyr (>= 0.7.0), glue, magrittr, purrr, Rcpp, rlang, stringi,
+tibble, tidyselect (>= 0.2.5), utils","Rcpp","covr, gapminder, knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tidyselect","tidyselect","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.5",NA,"R (>= 3.1)","glue (>= 1.3.0), purrr, rlang (>= 0.2.2), Rcpp (>= 0.12.0)","Rcpp (>= 0.12.0),","covr, dplyr, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"tidytext","tidytext","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,"R (>= 2.10)","rlang, dplyr, stringr, hunspell, generics, Matrix, tokenizers,
+janeaustenr, purrr (>= 0.1.1), methods, stopwords",NA,"readr, tidyr, XML, tm, quanteda, knitr, rmarkdown, ggplot2,
+reshape2, wordcloud, topicmodels, NLP, scales, gutenbergr,
+testthat, vdiffr, mallet, stm, data.table, broom, textdata",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"tidyverse","tidyverse","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.1",NA,NA,"broom (>= 0.4.2), cli (>= 1.0.0), crayon (>= 1.3.4), dplyr (>=
+0.7.4), dbplyr (>= 1.1.0), forcats (>= 0.2.0), ggplot2 (>=
+2.2.1), haven (>= 1.1.0), hms (>= 0.3), httr (>= 1.3.1),
+jsonlite (>= 1.5), lubridate (>= 1.7.1), magrittr (>= 1.5),
+modelr (>= 0.1.1), purrr (>= 0.2.4), readr (>= 1.1.1), readxl
+(>= 1.0.0), reprex (>= 0.1.1), rlang (>= 0.1.4), rstudioapi (>=
+0.7), rvest (>= 0.3.2), stringr (>= 1.2.0), tibble (>= 1.3.4),
+tidyr (>= 0.7.2), xml2 (>= 1.1.1)",NA,"feather (>= 0.3.1), knitr (>= 1.17), rmarkdown (>= 1.7.4)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"timeDate","timeDate","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3043.102",NA,"R (>= 2.15.1), graphics, utils, stats, methods",NA,NA,"date, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"timeSeries","timeSeries","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3042.102",NA,"R (>= 2.10), graphics, grDevices, stats, methods, utils,
+timeDate (>= 2150.95)",NA,NA,"RUnit, robustbase, xts, PerformanceAnalytics, fTrading",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"tinytest","tinytest","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,NA,"parallel, utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"tinytex","tinytex","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.14",NA,NA,"xfun (>= 0.5)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"titanic","titanic","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.1.2)",NA,NA,"dplyr",NA,"CC0",NA,NA,NA,NA,"no","3.5.3"
+"tmap","tmap","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3",NA,"R (>= 3.0), methods","tmaptools (>= 2.0-1), sf (>= 0.7-1), units (>= 0.6-1), raster
+(>= 2.7-15), grid, RColorBrewer, viridisLite, classInt,
+htmltools, htmlwidgets, leaflet (>= 2.0.2), leafsync, stats",NA,"lwgeom (>= 0.1-4), rmapshaper, rmarkdown, knitr, png,
+cartogram, osmdata, ggplot2, dplyr, tidyr, shiny, testthat,
+covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"tmaptools","tmaptools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0-2",NA,"R (>= 3.0), methods","sp, sf (>= 0.7-1), lwgeom (>= 0.1-4), units (>= 0.6-1), grid,
+raster (>= 2.7-15), rgdal, rgeos, classInt, KernSmooth,
+magrittr, RColorBrewer, viridisLite, stats, dichromat, XML",NA,"tmap (>= 2.0), rmapshaper, osmdata, OpenStreetMap, png,
+shiny, shinyjs",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"tokenizers","tokenizers","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.1",NA,"R (>= 3.1.3)","stringi (>= 1.0.1), Rcpp (>= 0.12.3), SnowballC (>= 0.5.1)","Rcpp","covr, knitr, rmarkdown, stopwords (>= 0.9.0), testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tourr","tourr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.6",NA,"R (>= 3.5)","MASS",NA,"TeachingDemos, ash, testthat, colorspace, ggplot2, reshape2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"tree","tree","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0-39",NA,"R (>= 2.15.0), grDevices, graphics, stats",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"triebeard","triebeard","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,NA,"Rcpp","Rcpp","knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"TSA","TSA","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2",NA,"R (>= 2.5.1)","leaps, locfit, mgcv",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"tseries","tseries","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.10-47",NA,"R (>= 2.10.0)","graphics, stats, utils, quadprog, zoo, quantmod (>= 0.4-9)",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"TTR","TTR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.23-4",NA,NA,"xts (>= 0.10-0), zoo, curl","xts","RUnit","quantmod","GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"twitteR","twitteR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.9",NA,"R (>= 2.12.0)","methods, bit64, rjson, DBI (>= 0.3.1), httr (>= 1.0.0)",NA,"RSQLite, RMySQL",NA,"Artistic-2.0",NA,NA,NA,NA,"no","3.5.3"
+"ucminf","ucminf","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-4",NA,NA,NA,NA,"numDeriv",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"udapi","udapi","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.3",NA,NA,"httr, curl",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"units","units","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6-3",NA,"R (>= 3.0.2)","Rcpp","Rcpp (>= 0.12.10)","udunits2, NISTunits, measurements, xml2, tibble, pillar (>=
+1.3.0), knitr, testthat, ggforce, rmarkdown, magrittr",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"UpSetR","UpSetR","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.4.0",NA,"R (>= 3.0)","ggplot2, gridExtra, plyr, utils, stats, methods, grDevices,
+scales",NA,"knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"urca","urca","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3-0",NA,"R (>= 2.0.0), methods","nlme, graphics, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"urltools","urltools","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7.3",NA,"R (>= 2.10)","Rcpp, methods, triebeard","Rcpp","testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"uroot","uroot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.0-10",NA,"R (>= 3.0.0), stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"usethis","usethis","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.5.1",NA,"R (>= 3.2)","clipr (>= 0.3.0), clisymbols, crayon, curl (>= 2.7), desc, fs
+(>= 1.3.0), gh, git2r (>= 0.23), glue (>= 1.3.0), purrr, rlang,
+rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr,
+yaml",NA,"covr, knitr, magick, pkgdown (>= 1.1.0), rmarkdown, roxygen2,
+spelling (>= 1.2), styler (>= 1.0.2), testthat (>= 2.1.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"utf8","utf8","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.4",NA,"R (>= 2.10)",NA,NA,"knitr, rmarkdown, testthat",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"uuid","uuid","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1-2",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.2"
+"V8","V8","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.3",NA,NA,"Rcpp (>= 0.12.12), jsonlite (>= 1.0), curl (>= 1.0), utils","Rcpp","testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"VaRES","VaRES","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0",NA,"R (>= 2.15.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"vctrs","vctrs","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.2.0",NA,"R (>= 3.2)","backports, ellipsis (>= 0.2.0), digest, glue, rlang (>=
+0.4.0), zeallot",NA,"bit64, covr, crayon, generics, knitr, pillar (>= 1.4.1),
+pkgdown, rmarkdown, testthat, tibble",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"vdiffr","vdiffr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.1",NA,"R (>= 3.2.0)","devtools, diffobj, fontquiver (>= 0.2.0), freetypeharfbuzz (>=
+0.2.5), gdtools, glue, grDevices, htmlwidgets (>= 0.6),
+htmltools, purrr (>= 0.2.0), rlang, R6, Rcpp, shiny, testthat
+(>= 1.0.0), usethis (>= 1.4.0), xml2 (>= 1.0.0)","freetypeharfbuzz, gdtools, Rcpp, BH","crayon, ggplot2 (>= 3.2.0), roxygen2, rstudioapi, withr, yaml",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"VGAM","VGAM","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1-1",NA,"R (>= 3.4.0), methods, stats, stats4, splines",NA,NA,"VGAMdata, MASS, mgcv",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"viridis","viridis","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.1",NA,"R (>= 2.10), viridisLite (>= 0.3.0)","stats, ggplot2 (>= 1.0.1), gridExtra",NA,"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown, rgdal",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"viridisLite","viridisLite","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3.0",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"visdat","visdat","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.3",NA,"R (>= 3.2.2)","ggplot2, tidyr, dplyr, purrr, readr, magrittr, stats, tibble,
+glue",NA,"testthat, plotly (>= 4.5.6), knitr, rmarkdown, vdiffr,
+gdtools, spelling",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"waveslim","waveslim","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.7.5.1",NA,"R (>= 2.11.0), graphics, grDevices, stats, utils",NA,NA,"fftw",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.2"
+"webshot","webshot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.5.1",NA,"R (>= 3.0)","magrittr, jsonlite, callr",NA,"httpuv, knitr, rmarkdown, shiny",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"whisker","whisker","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.3-2",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"whoami","whoami","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.3.0",NA,NA,"httr, jsonlite, utils",NA,"covr, mockery, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"withr","withr","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.1.2",NA,"R (>= 3.0.2)","stats, graphics, grDevices",NA,"testthat, covr, lattice, DBI, RSQLite, methods, knitr,
+rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"x13binary","x13binary","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.1.39-2",NA,NA,NA,NA,NA,NA,"file LICENSE",NA,"no",NA,NA,"no","3.5.3"
+"xfun","xfun","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.8",NA,NA,"stats, tools",NA,"testit, parallel, rstudioapi, tinytex, mime, markdown, knitr,
+htmltools, base64enc, remotes, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"xkcd","xkcd","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.0.6",NA,"ggplot2 (>= 3.0), extrafont","Hmisc, stats",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"xlsx","xlsx","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.1",NA,NA,"rJava, xlsxjars, grDevices, utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"xlsxjars","xlsxjars","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.6.1",NA,"rJava",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"XML","XML","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","3.98-1.20",NA,"R (>= 2.13.0), methods, utils",NA,NA,"bitops, RCurl",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"xml2","xml2","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.2.0",NA,"R (>= 3.1.0)","Rcpp","Rcpp (>= 0.12.12)","testthat, curl, covr, knitr, rmarkdown, magrittr, httr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"xopen","xopen","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.0.0",NA,"R (>= 3.1)","processx",NA,"ps, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"xtable","xtable","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8-4",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"xts","xts","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.11-2",NA,"zoo (>= 1.7-12)","methods","zoo","timeSeries, timeDate, tseries, chron, fts, tis, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"yaml","yaml","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","2.2.0",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.2"
+"yesno","yesno","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,"R (>= 3.1.0)","utils",NA,"testthat, covr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"zeallot","zeallot","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","0.1.0",NA,NA,NA,NA,"testthat, knitr, rmarkdown, purrr, magrittr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"zoo","zoo","C:/Users/cody8/OneDrive/Documentos/R/win-library/3.5","1.8-6",NA,"R (>= 3.1.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"coda, chron, DAAG, fts, ggplot2, mondate, scales,
+strucchange, timeDate, timeSeries, tis, tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"base","base","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,"methods",NA,"Part of R 3.5.3",NA,NA,NA,NA,NA,"3.5.3"
+"boot","boot","C:/Program Files/R/R-3.5.3/library","1.3-20","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.5.3"
+"class","class","C:/Program Files/R/R-3.5.3/library","7.3-15","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"cluster","cluster","C:/Program Files/R/R-3.5.3/library","2.0.7-1","recommended","R (>= 3.2.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"codetools","codetools","C:/Program Files/R/R-3.5.3/library","0.2-16","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"compiler","compiler","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,NA,"3.5.3"
+"datasets","datasets","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,NA,"3.5.3"
+"foreign","foreign","C:/Program Files/R/R-3.5.3/library","0.8-71","recommended","R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"graphics","graphics","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"grDevices",NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"grDevices","grDevices","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,"KernSmooth",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"grid","grid","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"grDevices, utils",NA,"lattice",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"KernSmooth","KernSmooth","C:/Program Files/R/R-3.5.3/library","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.5.3"
+"lattice","lattice","C:/Program Files/R/R-3.5.3/library","0.20-38","recommended","R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"MASS","MASS","C:/Program Files/R/R-3.5.3/library","7.3-51.1","recommended","R (>= 3.1.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"Matrix","Matrix","C:/Program Files/R/R-3.5.3/library","1.2-15","recommended","R (>= 3.2.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.5.3"
+"methods","methods","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"mgcv","mgcv","C:/Program Files/R/R-3.5.3/library","1.8-27","recommended","R (>= 2.14.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"nlme","nlme","C:/Program Files/R/R-3.5.3/library","3.1-137","recommended","R (>= 3.4.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.5.3"
+"nnet","nnet","C:/Program Files/R/R-3.5.3/library","7.3-12","recommended","R (>= 2.14.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"parallel","parallel","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"tools, compiler",NA,"methods","snow, nws, Rmpi","Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"rpart","rpart","C:/Program Files/R/R-3.5.3/library","4.1-13","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"spatial","spatial","C:/Program Files/R/R-3.5.3/library","7.3-11","recommended","R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"splines","splines","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"stats","stats","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"stats4","stats4","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,NA,"3.5.3"
+"survival","survival","C:/Program Files/R/R-3.5.3/library","2.43-3","recommended","R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"tcltk","tcltk","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,"utils",NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"tools","tools","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,"codetools, methods, xml2, curl",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
+"translations","translations","C:/Program Files/R/R-3.5.3/library","3.5.3",NA,NA,NA,NA,NA,NA,"Part of R 3.5.3",NA,NA,NA,NA,NA,"3.5.3"
+"utils","utils","C:/Program Files/R/R-3.5.3/library","3.5.3","base",NA,NA,NA,"methods, xml2, commonmark",NA,"Part of R 3.5.3",NA,NA,NA,NA,"yes","3.5.3"
